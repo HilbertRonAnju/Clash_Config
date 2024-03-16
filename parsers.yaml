@@ -1,0 +1,7 @@
+parsers:
+    yaml:
+      prepend-rules:
+        - DOMAIN-SUFFIX,hi1bert.top,DIRECT
+        - DOMAIN-SUFFIX,1password.com,DIRECT
+        - DOMAIN-KEYWORD,xjtu,DIRECT
+        - DOMAIN-KEYWORD,ieee,DIRECT
