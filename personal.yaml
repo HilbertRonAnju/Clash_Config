@@ -1,6 +1,4 @@
 payload:
-  # 内容：Github
-  # 数量：6条
   - DOMAIN-SUFFIX,hilbert.top
   - DOMAIN-KEYWORD,xjtu
   - DOMAIN-KEYWORD,ieee
